@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gil Protfolio App</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="mainpage_title_text">Nanodegree Apps</string>
+    <string name="btn_my_app_txt">Capstone: My Own App</string>
+    <string name="btn_xyz_reader_txt">XYZ Reader</string>
+    <string name="btn_build_it_bigger_txt">Build It Bigger</string>
+    <string name="btn_library_app_txt">Library App</string>
+    <string name="btn_scores_app_txt">Scores App</string>
+    <string name="btn_spotify_txt">Spotify Streamer</string>
+
+    <string name="mainpage_toast_msg_txt">This button will launch %1$s</string>
+
+</resources>
